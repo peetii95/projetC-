@@ -17,5 +17,6 @@ EtienneTheSecond::EtienneTheSecond() {
 EtienneTheSecond::~EtienneTheSecond() {
 	// TODO Auto-generated destructor stub
 }
+	hehe
 
 } /* namespace std */
